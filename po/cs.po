@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: ubuntu-terminal-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-08 12:47+0200\n"
-"PO-Revision-Date: 2017-10-02 08:16+0000\n"
+"PO-Revision-Date: 2019-03-07 21:53+0000\n"
 "Last-Translator: Milan Korecký <milan.korecky@gmail.com>\n"
-"Language-Team: Czech <https://translate.ubports.com/projects/ubports"
-"/terminal-app/cs/>\n"
+"Language-Team: Czech <https://translate.ubports.com/projects/ubports/"
+"terminal-app/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 2.15\n"
+"X-Generator: Weblate 3.1.1\n"
 "X-Launchpad-Export-Date: 2016-02-08 05:36+0000\n"
 
 #: ../src/app/qml/AlternateActionPopover.qml:13
@@ -198,7 +198,7 @@ msgstr "Záložky"
 
 #: ../src/app/qml/TabsPage.qml:15
 msgid "New tab"
-msgstr "Nová záložka"
+msgstr "Nový panel"
 
 #: ../src/app/qml/TerminalPage.qml:179
 msgid "Selection Mode"
