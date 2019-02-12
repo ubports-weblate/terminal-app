@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: ubuntu-terminal-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-08 12:47+0200\n"
-"PO-Revision-Date: 2019-01-06 00:00+0000\n"
-"Last-Translator: Jaume Angrill <txaume@protonmail.com>\n"
+"PO-Revision-Date: 2019-02-17 00:00+0000\n"
+"Last-Translator: Joan CiberSheep <cibersheep@gmail.com>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/ubports/"
 "terminal-app/ca/>\n"
 "Language: ca\n"
@@ -178,7 +178,7 @@ msgstr "D'acord"
 
 #: ../src/app/qml/SettingsPage.qml:27
 msgid "Settings"
-msgstr "Configuració"
+msgstr "Paràmetres"
 
 #: ../src/app/qml/SettingsPage.qml:67
 msgid "Font Size:"
