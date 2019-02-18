@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-terminal-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-08 12:47+0200\n"
-"PO-Revision-Date: 2019-01-27 00:00+0000\n"
+"PO-Revision-Date: 2019-03-07 21:53+0000\n"
 "Last-Translator: louies0623 <louies0623@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://translate.ubports.com/projects/"
 "ubports/terminal-app/zh_Hant/>\n"
@@ -54,7 +54,7 @@ msgstr "取消"
 
 #: ../src/app/qml/AuthenticationService.qml:60
 msgid "Authentication failed"
-msgstr "身分驗證失敗"
+msgstr "驗證失敗"
 
 #: ../src/app/qml/ColorSchemePage.qml:27 ../src/app/qml/SettingsPage.qml:100
 msgid "Color Scheme"
