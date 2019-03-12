@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: ubuntu-terminal-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-08 12:47+0200\n"
-"PO-Revision-Date: 2019-03-07 21:54+0000\n"
-"Last-Translator: Ivo Xavier <ivofernandes12@gmail.com>\n"
+"PO-Revision-Date: 2019-03-17 00:00+0000\n"
+"Last-Translator: Rúben Carneiro <rubencarneiro01@gmail.com>\n"
 "Language-Team: Portuguese <https://translate.ubports.com/projects/ubports/"
 "terminal-app/pt/>\n"
 "Language: pt\n"
@@ -46,7 +46,7 @@ msgstr "código ou frase-senha"
 
 #: ../src/app/qml/AuthenticationDialog.qml:61
 msgid "OK"
-msgstr "OK"
+msgstr "Confirmar"
 
 #: ../src/app/qml/AuthenticationDialog.qml:73
 msgid "Cancel"
@@ -305,7 +305,7 @@ msgstr "Impossível carregar esquema de cores: %1"
 
 #: com.ubuntu.terminal.desktop.in.in.h:1
 msgid "Terminal"
-msgstr "Terminal"
+msgstr "Linha de comandos"
 
 #~ msgid "Show Keyboard Bar"
 #~ msgstr "Mostrar barra do teclado"
