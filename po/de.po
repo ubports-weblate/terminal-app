@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: ubuntu-terminal-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-08 12:47+0200\n"
-"PO-Revision-Date: 2018-01-03 12:42+0000\n"
-"Last-Translator: Peter Nerlich <peter.nerlich+ubports@googlemail.com>\n"
-"Language-Team: German <https://translate.ubports.com/projects/ubports"
-"/terminal-app/de/>\n"
+"PO-Revision-Date: 2019-04-14 00:00+0000\n"
+"Last-Translator: Jan Sprinz <jan@ubports.com>\n"
+"Language-Team: German <https://translate.ubports.com/projects/ubports/"
+"terminal-app/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.15\n"
+"X-Generator: Weblate 3.1.1\n"
 "X-Launchpad-Export-Date: 2016-03-07 06:00+0000\n"
 
 #: ../src/app/qml/AlternateActionPopover.qml:13
@@ -154,7 +154,7 @@ msgstr "Tab"
 #. TRANSLATORS: This is the name of the Enter key. All letters should be uppercase!
 #: ../src/app/qml/KeyboardRows/JsonTranslator.qml:101
 msgid "ENTER"
-msgstr "EINGABE"
+msgstr "ENTER"
 
 #: ../src/app/qml/LayoutsPage.qml:27 ../src/app/qml/SettingsPage.qml:44
 msgid "Layouts"
@@ -166,7 +166,7 @@ msgstr "Einloggen"
 
 #: ../src/app/qml/LoginPage.qml:42
 msgid "Require login"
-msgstr "Anmeldung verlangen"
+msgstr "Anmeldung erzwingen"
 
 #: ../src/app/qml/LoginPage.qml:43
 msgid "Enable or disable login at start"
@@ -194,11 +194,11 @@ msgstr "Nicht erforderlich"
 
 #: ../src/app/qml/TabsPage.qml:9
 msgid "Tabs"
-msgstr "Reiter"
+msgstr "Tabs"
 
 #: ../src/app/qml/TabsPage.qml:15
 msgid "New tab"
-msgstr "Neuer Reiter"
+msgstr "Neuer Tab"
 
 #: ../src/app/qml/TerminalPage.qml:179
 msgid "Selection Mode"
@@ -227,7 +227,7 @@ msgstr "Linux"
 
 #: ../src/app/qml/ubuntu-terminal-app.qml:130
 msgid "Cool retro term"
-msgstr "Kühles Retro Thema"
+msgstr "Retro"
 
 #: ../src/app/qml/ubuntu-terminal-app.qml:130
 msgid "Dark pastels / Ubuntu (old)"
@@ -261,7 +261,7 @@ msgstr "Verweis aufrufen"
 #: ../src/plugin/konsole/Filter.cpp:519
 #: ../src/plugin/qmltermwidget/lib/Filter.cpp:534
 msgid "Copy Link Address"
-msgstr "Verweisadresse kopieren"
+msgstr "Linkadresse kopieren"
 
 #: ../src/plugin/konsole/Filter.cpp:523
 #: ../src/plugin/qmltermwidget/lib/Filter.cpp:538
@@ -305,7 +305,7 @@ msgstr "Farbschema konnte nicht geladen werden: %1"
 
 #: com.ubuntu.terminal.desktop.in.in.h:1
 msgid "Terminal"
-msgstr "Befehlsfenster"
+msgstr "Terminal"
 
 #~ msgid "Show Keyboard Bar"
 #~ msgstr "Bildschirmtastatur anzeigen"
