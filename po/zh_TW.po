@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-terminal-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-08 12:47+0200\n"
-"PO-Revision-Date: 2019-03-07 21:53+0000\n"
+"PO-Revision-Date: 2019-04-14 00:00+0000\n"
 "Last-Translator: louies0623 <louies0623@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://translate.ubports.com/projects/"
 "ubports/terminal-app/zh_Hant/>\n"
@@ -198,7 +198,7 @@ msgstr "分頁"
 
 #: ../src/app/qml/TabsPage.qml:15
 msgid "New tab"
-msgstr "新增分頁"
+msgstr "新分頁"
 
 #: ../src/app/qml/TerminalPage.qml:179
 msgid "Selection Mode"
